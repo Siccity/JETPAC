@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01722a4437dd7244f8ce4ed2b249214d, type: 3}
+  m_Name: Rocket1
+  m_EditorClassIdentifier: 
+  stage1: {fileID: 1853057753532840, guid: cd20af4e2d5225a4daf7beb947f98302, type: 2}
+  stage2: {fileID: 1393430757257992, guid: 67d8e893dd7bb36499309db2c3527637, type: 2}
+  stage3: {fileID: 1167237203330830, guid: 0ca11ce05397beb489102f18a0cd393d, type: 2}
+  fuel1: {fileID: 1648734208155708, guid: 0bdab5ddce6ba134b87d47c3796535b1, type: 2}
+  fuel2: {fileID: 1647879090358738, guid: d099cb8515cf6da4e8451ab1284915c3, type: 2}
+  fuel3: {fileID: 1851010359244374, guid: 5a61384a042ae8d46a5327dd391d5874, type: 2}
+  fuel4: {fileID: 1285058748506736, guid: 84f51ae52daa2ab40a142d768b696d32, type: 2}
+  fuel5: {fileID: 1856977960723900, guid: c80d423c73251c049b2d776e18be00c3, type: 2}
+  fuel6: {fileID: 1106524672783380, guid: 94daf353434d0e845a19b3248e7bb055, type: 2}
+  fuel: {fileID: 1691813970777876, guid: b21fcdb43f186fb4e871078aa9ea7cc8, type: 2}
